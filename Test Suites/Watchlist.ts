@@ -15,14 +15,14 @@
       <guid>bf362d29-4c8e-4e99-98b3-7afb20174882</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/02_NewWatchList</testCaseId>
+      <testCaseId>Test Cases/RetailFx-53/02_NewWatchList</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>3e7a5598-8fa5-40c3-830a-cb63c97d6fa1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/03_ExistingWatchlist</testCaseId>
+      <testCaseId>Test Cases/RetailFx-53/03_ExistingWatchlist</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
